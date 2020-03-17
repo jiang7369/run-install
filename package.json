@@ -1,0 +1,8 @@
+{
+  "name": "run-install",
+  "version": "0.0.0",
+  "description": "npx run-install",
+  "main": "index.js",
+  "author": "jiang7369",
+  "license": "MIT"
+}
